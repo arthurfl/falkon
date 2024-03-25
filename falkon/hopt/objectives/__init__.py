@@ -10,6 +10,7 @@ __all__ = (
     "CompReg",
     "NystromCompReg",
     "HoldOut",
+    "SimpleVal",
     "SGPR",
     "GCV",
     "LOOCV",
